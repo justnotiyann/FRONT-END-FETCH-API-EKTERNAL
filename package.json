@@ -1,0 +1,15 @@
+{
+  "name": "front-end-looping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/javascript/script.js",
+  "scripts": {
+    "scss": "node-sass --watch scss -o src/css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
